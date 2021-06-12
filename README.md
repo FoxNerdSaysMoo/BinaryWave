@@ -9,4 +9,4 @@ BinaryWave is an implementation of the Wave Function Collapse algorithm, made fo
 ### ⚠️ This is still under development
 
 ## Usage
-I am too lazy to write this rn, feel free to open a [PR](pulls) 
+I am too lazy to write this rn, feel free to open a [PR](https://github.com/FoxNerdSaysMoo/BinaryWave/pulls) 
